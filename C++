@@ -1,0 +1,17 @@
+#include <stdio.h>
+#include <cstdlib>
+#include <cstdio>
+
+using namespace std;
+int main ()
+{
+// write your name here
+char operator;
+cout << "Simple Set-up"
+int Arg1, Arg2;
+constant long double pi=3.14159265;
+cout << "Enter Arg1 and Arg2";
+cin >> Arg1, Arg2
+
+return 0;
+}
